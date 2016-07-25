@@ -148,7 +148,7 @@ input {
 
 /* HEADER SECTION */
 #h {
-	background: url(../img/header-SmartTV.jpg) no-repeat center top;
+	background: url(../img/header-mediakit.jpg) no-repeat center top;
 	padding-top: 150px;
 	text-align:center;
 	background-attachment: relative;
@@ -255,6 +255,14 @@ input {
 	background-color: #FDE3A7;
 }
 
+.bg-mediakit-gray {
+	background-color: #231f20;
+}
+
+.bg-mediakit-blue {
+	background-color: #6cc5e9;
+}
+
 .bg-yellow h2 {
 	padding-top: 150px;
 	margin-top: 0px;
@@ -282,6 +290,24 @@ input {
 }
 .bg02 {
 	background: url(../img/bg02.png) no-repeat center top;
+	background-attachment: relative;
+	background-position: center center;
+	height: 450px;
+	margin: 0px;
+	
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.bg-viewability {
+	background: url(../img/viewability.png) no-repeat center top;
 	background-attachment: relative;
 	background-position: center center;
 	height: 450px;
