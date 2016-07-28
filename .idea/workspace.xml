@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c525f2eb-6aea-4814-9282-a131f1e8a118" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sass_stdlib.xml" />
-      <change type="DELETED" beforePath="C:\Users\erik\Documents\GitHub\SmartRoll-Site\MediaKit-Assets\AdobeStock_60478995.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\erik\Documents\GitHub\SmartRoll-Site\MediaKit-Assets\Asset 1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\erik\Documents\GitHub\SmartRoll-Site\MediaKit-Assets\SmartRoll-MediaKit-7.12.16.pdf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\erik\Documents\GitHub\SmartRoll-Site\MediaKit-Assets\SmartRoll-MediaKit-pg2a.pdf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\erik\Documents\GitHub\SmartRoll-Site\MediaKit-Assets\SmartRoll-MediaKit-pg4.pdf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\erik\Documents\GitHub\SmartRoll-Site\MediaKit-Assets\SmartRoll-MediaKit-pg6.pdf" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="DELETED" beforePath="C:\Users\erik\Documents\GitHub\SmartRoll-Site\assets\img\advertising.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -34,7 +27,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="75" column="30" selection-start="2857" selection-end="2857" vertical-scroll-proportion="0.8318695">
+            <state line="113" column="52" selection-start="4726" selection-end="4726" vertical-scroll-proportion="0.5545797">
               <folding />
             </state>
           </provider>
@@ -217,7 +210,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="30" selection-start="2857" selection-end="2857" vertical-scroll-proportion="0.8318695">
+        <state line="113" column="52" selection-start="4726" selection-end="4726" vertical-scroll-proportion="0.5545797">
           <folding />
         </state>
       </provider>
