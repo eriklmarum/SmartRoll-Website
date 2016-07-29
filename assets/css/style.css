@@ -329,6 +329,10 @@ input {
 	padding: 0px !important;
 }
 
+.section_space {
+    padding: 2px;
+}
+
 /* Prices */
 #ws .price {
 	text-align: center;
