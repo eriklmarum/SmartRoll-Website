@@ -13,11 +13,12 @@
 
 /* Import fonts */
 @import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,900);
+@import url(http://fonts.googleapis.com/css?family=Roboto:300,400,700,900);
 
 * { 
 	margin: 0;
 	padding: 0px;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
 } 
 body { 
 	background: #fff; 
@@ -26,7 +27,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
 	font-weight: 300;
 }
 
@@ -34,12 +35,27 @@ h1, h2, h3, h4, h5, h6 {
 p { 
 	padding: 0; 
 	margin-bottom: 12px; 
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
 	font-weight: 300;
 	font-size: 18px; 
 	line-height: 28px;
-	color: #666; 
+	color: #000;
 	margin-top: 10px; 
+}
+
+.white-font {
+    color: #FFF;
+}
+
+.header-anchor {
+    padding: 0;
+    margin-bottom: 12px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+    color: #000;
+    line-height: 28px;
+    margin-top: 10px;
 }
 
 html,
@@ -232,6 +248,10 @@ input {
 .squares i {
 	font-size: 50px;
 }
+
+.bg-black {
+    background-color: #000000;
+}
 .bg-white {
 	background-color: #FFFFFF;
 }
@@ -260,7 +280,15 @@ input {
 }
 
 .bg-mediakit-blue {
-	background-color: #6cc5e9;
+	background-color: #00AEEF;
+}
+
+.bg-mediakit-lightgrey {
+    background-color: #F1F2F2;
+}
+
+.bg-mediakit-black {
+    background-color: #231f20;
 }
 
 .bg-yellow h2 {
@@ -268,6 +296,11 @@ input {
 	margin-top: 0px;
 	margin-left: 15px;
 	margin-right: 15px;
+}
+
+.valign-middle {
+    vertical-align: middle;
+    display: inline-block;
 }
 
 /* Background Image */
@@ -329,8 +362,18 @@ input {
 	padding: 0px !important;
 }
 
-.section_space {
+.section_space_mini {
     padding: 2px;
+}
+
+.section_space_20 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.section_space_40 {
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 /* Prices */
@@ -405,4 +448,15 @@ input {
 #f p {
 	color: white;
 	text-align: center;
+}
+
+.display-table{
+    display: table;
+    table-layout: fixed;
+}
+
+.display-cell{
+    display: table-cell;
+    vertical-align: middle;
+    float: none;
 }
